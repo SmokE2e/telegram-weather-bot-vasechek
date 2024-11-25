@@ -5,5 +5,7 @@ TELEGRAM_BOT_TOKEN=[Ваш API ключ]
 OPENWEATHERMAP_API_KEY=[Вашь API ключ]
 
 Для запуска:
+
 npm install
+
 npm start
